@@ -1,0 +1,50 @@
+Body {
+    background-color: #1e1e1e;
+}
+
+header {
+    font-family: "Brush Script MT", cursive;
+    font-size: 40px;
+    text-align: center;
+    color: #0063b2;
+}
+
+h2 {
+    font-family: "Brush Script MT", cursive;
+    color: #21fc0d;
+}
+
+h4 {
+    font-family: "Brush Script MT", cursive;
+    color: #21fc0d;
+}
+
+ul {
+    font-family: "Brush Script MT", cursive;
+}
+
+
+footer {
+    color: #21fc0d;
+}
+
+main {
+    color: #eae7e7;
+}
+
+.container{
+    display: flex;
+}
+.box{
+    width: 275;
+    height: 400;
+    text-align: center;
+}
+
+p {
+    font-family: "Brush Script MT", cursive;
+    width: 275px;
+    border: 1px black;
+    padding: 50px;
+    margin: 20px;
+  }
