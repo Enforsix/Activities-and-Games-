@@ -2,6 +2,10 @@ Body {
     background-color: #1e1e1e;
 }
 
+title {
+    text-align: center;
+}
+
 header {
     font-family: "Brush Script MT", cursive;
     font-size: 40px;
