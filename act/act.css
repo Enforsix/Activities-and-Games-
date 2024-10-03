@@ -41,13 +41,13 @@ main {
 }
 .box{
     width: 200;
-    height: 400;
+    height: 200;
     text-align: left;
 }
 
 p {
     font-family: "Brush Script MT", cursive;
-    width: 275px;
+    width: 200px;
     border: 1px black;
     padding: 50px;
     margin: 20px;
