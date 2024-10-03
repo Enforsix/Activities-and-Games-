@@ -29,15 +29,8 @@ Body {
     background-color: #1e1e1e;
 }
 
-title {
-    text-align: center;
-}
-
-header {
-    font-family: "Brush Script MT", cursive;
-    font-size: 40px;
-    text-align: center;
-    color: #0063b2;
+h1 {
+  text-align: center;
 }
 
 ul {
@@ -48,7 +41,7 @@ main {
     color: #eae7e7;
 }
 
-.container{
+.flex-container{
   display: flex;
   flex-direction: row;
 }
@@ -56,18 +49,11 @@ main {
   width: 10;
   height: 10;
   border: 5px solid green;
-  padding: 0px;
-  margin: 0px;
+  padding: 20px;
+  margin: 20px;
   text-align: left;
 }
 
-p {
-  font-family: "Brush Script MT", cursive;
-  width: 275px;
-  border: 1px black;
-  padding: 50px;
-  margin: 20px;
-  }
 
  
 
