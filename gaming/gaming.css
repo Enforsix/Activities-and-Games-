@@ -15,7 +15,7 @@ header {
 
 h2 {
     font-family: "Brush Script MT", cursive;
-    color: #21fc0d;
+    color: #adbeac;
 }
 
 h4 {
@@ -80,3 +80,6 @@ p {
     background-color: #0063b2;
   }
 
+img {
+    border-radius: 150xp;
+}
