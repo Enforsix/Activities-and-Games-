@@ -10,7 +10,9 @@ header {
     font-family: "Brush Script MT", cursive;
     font-size: 40px;
     text-align: center;
+    text-decoration-line: underline;
     color: #8e9da9;
+    text-shadow: 2px 2px #060606;
 }
 
 h2 {

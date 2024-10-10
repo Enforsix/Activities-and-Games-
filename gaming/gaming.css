@@ -13,9 +13,18 @@ header {
     color: #0063b2;
 }
 
+h1 {
+
+}
+
 h2 {
     font-family: "Brush Script MT", cursive;
     color: #adbeac;
+    text-shadow: 2px 2px #060606;
+}
+
+h3{
+
 }
 
 h4 {
