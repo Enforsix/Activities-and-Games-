@@ -31,7 +31,9 @@ Body {
 
 h1 {
   text-align: center;
-  color: #aaa;
+  text-decoration-line: underline;
+  text-shadow: #060606;
+  color: #eae7e7;
 }
 
 ul {
@@ -52,6 +54,7 @@ main {
   border: 5px solid green;
   padding: 20px;
   margin: 20px;
+  border-radius: 10px;
   text-align: left;
 }
 
@@ -59,5 +62,7 @@ img {
   padding: 10px;
 }
 
- 
-
+ footer {
+  border-radius: 10px;
+  background-color: #1b0707;
+ }
