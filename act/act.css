@@ -31,6 +31,7 @@ Body {
 
 h1 {
   text-align: center;
+  color: #aaa;
 }
 
 ul {
@@ -54,6 +55,9 @@ main {
   text-align: left;
 }
 
+img {
+  padding: 10px;
+}
 
  
 

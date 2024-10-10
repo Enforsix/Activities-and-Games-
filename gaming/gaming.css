@@ -20,7 +20,8 @@ h2 {
 
 h4 {
     font-family: "Brush Script MT", cursive;
-    color: #21fc0d;
+    text-shadow: 2px 2px #060606;
+    color: #bed3bc;
 }
 
 ul {
@@ -29,7 +30,8 @@ ul {
 
 
 footer {
-    color: #21fc0d;
+    color: #bed3bc;
+    text-shadow: 2px 2px #060606;
 }
 
 main {
@@ -51,6 +53,7 @@ p {
     border: 1px black;
     padding: 50px;
     margin: 20px;
+    text-shadow: 2px 2px #060606;
   }
 
   nav {
@@ -81,5 +84,5 @@ p {
   }
 
 img {
-    border-radius: 150xp;
+    border-radius: 40px;
 }
