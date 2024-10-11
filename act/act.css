@@ -37,26 +37,27 @@ h1 {
 }
 
 ul {
-    font-family: "Brush Script MT", cursive;
+  font-family: "Brush Script MT", cursive;
+    
 }
 
 main {
-    color: #eae7e7;
+    color: #bcc0bc;
 }
 
 .flex-container{
   display: flex;
   flex-direction: row;
-  
-}
+ }
+
 .box{
-  width: 10;
-  height: 10;
   border: 5px solid green;
   padding: 20px;
   margin: 20px;
   border-radius: 10px;
   text-align: left;
+  flex-basis: 30%;
+  
 }
 
 img {
