@@ -38,6 +38,7 @@ h1 {
 
 ul {
   font-family: "Brush Script MT", cursive;
+  margin: 3px;
     
 }
 
@@ -68,11 +69,11 @@ img {
   background-color: #7b2e2e;
  }
 
- .firstSection{
-   height: 100hv;
+ .secondSection{
   display: flex;
   justify-content: center;
   align-items: center;
+  gap: 10px;
 }
 
   .cards{
