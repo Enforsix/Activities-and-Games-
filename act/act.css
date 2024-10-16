@@ -68,3 +68,14 @@ img {
   border-radius: 10px;
   background-color: #7b2e2e;
  }
+
+ .cards {
+  width: 500px;
+  border: solid gray;
+  display: flex;
+  border-radius: 15px;
+ }
+
+ .cardText {
+  margin-left: 5;
+ }
