@@ -69,13 +69,24 @@ img {
   background-color: #7b2e2e;
  }
 
+ .firstSection{
+
+ }
  .cards {
   width: 500px;
   border: solid gray;
-  display: flex;
   border-radius: 15px;
+  display: flex;
+  
  }
 
  .cardText {
   margin-left: 5;
+ }
+ .cardImg{
+  width: 30%;
+ }
+
+ .cardText{
+  width: 70%;
  }
