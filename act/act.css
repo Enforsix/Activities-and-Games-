@@ -57,7 +57,6 @@ main {
   border-radius: 10px;
   text-align: left;
   flex-basis: 30%;
-  
 }
 
 img {
@@ -70,23 +69,23 @@ img {
  }
 
  .firstSection{
-
- }
- .cards {
-  width: 500px;
-  border: solid gray;
-  border-radius: 15px;
+   height: 100hv;
   display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+  .cards{
+    width: 500px;
+    border: 2px solid rgb(127, 125, 125);
+    display: flex;
+  }
   
- }
-
- .cardText {
-  margin-left: 5;
- }
- .cardImg{
-  width: 30%;
- }
-
- .cardText{
-  width: 70%;
- }
+  .cardText{
+    padding: 5px;
+    width: 70%;
+  }
+  
+  .cardImg {
+    width: 30%;
+  }
