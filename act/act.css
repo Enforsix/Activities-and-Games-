@@ -68,9 +68,10 @@ img {
   background-color: #7b2e2e;
  }
 
- .firstSection{
+ .secondSection{
    height: 100hv;
   display: flex;
+  flex-direction: row;
   justify-content: center;
   align-items: center;
 }
