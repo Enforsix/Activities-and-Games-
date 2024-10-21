@@ -45,6 +45,10 @@ header {
     text-shadow: 2px 2px #060606;   
 }
 
+p{
+  color: #aaa;
+}
+
  footer 
  {
    text-align: center;
