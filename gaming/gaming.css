@@ -96,3 +96,10 @@ p {
 img {
     border-radius: 40px;
 }
+
+@media (max-width 426) {
+    .contain{
+        display: flex;
+        flex-direction: column;
+    }
+}
