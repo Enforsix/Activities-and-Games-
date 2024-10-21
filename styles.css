@@ -66,3 +66,8 @@ p{
   display: flex;
 
 }
+
+footer {
+  background-color: #98a1a8;
+  color: #000;
+}

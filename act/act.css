@@ -93,3 +93,24 @@ img {
   .cardImg {
     width: 40%;
   }
+
+  @media (max-width 426px) 
+  { 
+    body{
+      background-color: #0063b2;
+     }
+
+     .flexAda{
+      display: flex;
+      flex-direction: column;
+    }
+
+    .flex-container {
+      flex-direction: column;
+    }
+  
+    .flex-container{
+      flex-direction: column;
+    }
+  }
+  
