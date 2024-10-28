@@ -45,12 +45,17 @@ main {
     color: #bcc0bc;
 }
 
+.flexAdapt{
+  display: flex;
+}
+
 .flex-container{
   display: flex;
   flex-direction: row;
  }
 
 .box{
+  display: flex;
   border: 5px solid green;
   padding: 20px;
   margin: 20px;
@@ -63,13 +68,10 @@ img {
   padding: 10px;
 }
 
- footer {
-  border-radius: 10px;
-  background-color: #7b2e2e;
- }
+ 
 
  .secondSection{
-   height: 100hv;
+  height: 100hv;
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -94,23 +96,15 @@ img {
     width: 40%;
   }
 
-  @media (max-width 426px) 
-  { 
-    body{
-      background-color: #0063b2;
-     }
+  /* Footer */
+footer {
+  border-radius: 10px;
+  background-color: #7b2e2e;
+  display: flex;
+ }
 
-     .flexAda{
-      display: flex;
-      flex-direction: column;
-    }
+  @media (max-width 426px) {
+    Body {background-color: #7b2e2e;}
 
-    .flex-container {
-      flex-direction: column;
-    }
-  
-    .flex-container{
-      flex-direction: column;
-    }
   }
   
